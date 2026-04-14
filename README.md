@@ -1,6 +1,3 @@
-# cps-education-analysis
-LASSO, Ridge, and Random Forest analysis on CPS education data
-
 # CPS Education Analysis
 
 This project analyzes factors associated with obtaining a bachelor's degree or higher using CPS data. Models include LASSO, Ridge, and Random Forest.
