@@ -5,19 +5,19 @@ This project analyzes factors associated with obtaining a bachelor's degree or h
 ## Repository Structure
 
 - `scripts/`: Contains all R scripts used in the analysis
-  - `03_lasso_model.R`: LASSO regression + CV + evaluation
-  - `04_ridge_model.R`: Ridge regression
-  - `05_random_forest.R`: Random Forest model
+  - `lasso_model.R`: LASSO regression + CV + evaluation
+  - `ridge_model.R`: Ridge regression
+  - `random_forest.R`: Random Forest model
 - `data/`: Contains dataset
 - `report/`: Final paper
 
 ## How to Run
 
 Run scripts in order:
-1. `01_data_cleaning.R`
-2. `03_lasso_model.R`
-3. `04_ridge_model.R`
-4. `05_random_forest.R`
+1. `data_cleaning.R`
+2. `lasso_model.R`
+3. `ridge_model.R`
+4. `random_forest.R`
 
 ## Notes
 
