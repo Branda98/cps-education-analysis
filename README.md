@@ -8,6 +8,7 @@ This project analyzes factors associated with obtaining a bachelor's degree or h
   - `lasso_model.R`: LASSO regression
   - `ridge_model.R`: Ridge regression
   - `random_forest.R`: Random Forest model
+  - `data_cleaning.R`: Data cleaning
 - `data/`: Contains dataset
 - `report/`: Final paper
 
