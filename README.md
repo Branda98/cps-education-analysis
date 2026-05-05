@@ -10,7 +10,7 @@ This project analyzes factors associated with obtaining a bachelor's degree or h
   - `random_forest.R`: Random Forest model
   - `data_cleaning.R`: Data cleaning
 - `data/`: Contains dataset
-- `report/`: Final paper
+- `report.pdf`: Final paper
 
 ## How to Run
 
